@@ -9,7 +9,7 @@
     "lint:fix": "eslint . --no-error-on-unmatched-pattern --fix"
   },
   "keywords": ["github", "action", "yarn", "install", "cache"],
-  "author": "freckle",
+  "author": "bitnomial",
   "license": "MIT",
   "dependencies": {
     "@actions/cache": "^1.0.7",
